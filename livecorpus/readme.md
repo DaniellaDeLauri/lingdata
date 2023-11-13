@@ -1,1 +1,1 @@
-livecorpus/readme.md
+Корпус .eaf файлов.
